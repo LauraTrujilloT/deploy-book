@@ -9,14 +9,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   
 # the name of your GitHub Repo. 
 # If there is no subpath for your site, use an empty string ""  
-baseurl: "/my-book/" #@@@ CHANGE THIS -5 @@@#
+baseurl: "/deploy-book" #@@@ CHANGE THIS -5 @@@#
 
 
 # the base hostname & protocol for your site. 
 # Since we are deloying on GitHub pages, the URL has the format:
 # "https://your-github-username.github.io/" 
 # In my case is:
-url: "https://lauratrujillot.github.io/deploy-book/" #@@@ CHANGE THIS - 6 @@@#
+url: "https://lauratrujillot.github.io/" #@@@ CHANGE THIS - 6 @@@#
 
 #######################
 # Jupyter Book settings
